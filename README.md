@@ -1,2 +1,2 @@
 # EMB
-# include the testing data
+# include the EMB testing data and code
